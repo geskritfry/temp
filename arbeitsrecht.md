@@ -1,3 +1,5 @@
+TODO: Folgende Studie einbauen : http://www.heise.de/newsticker/meldung/Digitalisierung-belastet-Familienleben-und-Gesundheit-3332752.html?wt_mc=rss.ho.beitrag.atom
+
 # Erschwert das Arbeitsrecht das digitale Arbeiten und gehört es daher refomiert oder sogar abgeschafft?
   
 *Diese Fragen stellt sich Philipp Maier - Partner und Arbeitsrechtsexperte bei Baker & McKenzie - in einem [Beitrag im derStandard.at](http://mobil.derstandard.at/2000044206137/Wenn-das-Arbeitsrecht-digitales-Arbeiten-erschwert?ref=rss).*
