@@ -21,7 +21,7 @@ Es wird aber dann doch noch ein Schuldiger für diese neuen Entwicklungen ausgem
 
 Weil also Leute heutzutage auch mal E-Mails versenden und Computer verwenden statt Briefe zu schicken und auf Schreibmaschinen tippen, soll die Arbeit entgrenzt sein? Damit eine neue Technologie wie die Digitalisierung zu solchen Effekten führt, braucht es schon ein Interesse, welche diese neue Technologie genau dazu nutzen will.
 
-Natürlich, ist jeder ständig erreichbar, ermöglicht das auch Unternehmen einen größeren Zugriff auf die Beschäftigten. Aber das Interesse möglichst viel Arbeit aus Arbeitnehmer\*innen zu ziehen, muss schon von vorher existieren. Erst dadurch können Smartphones und Notebooks zur Burnoutgefahr werden.
+Natürlich, ist jeder ständig erreichbar, ermöglicht das auch Unternehmen einen größeren Zugriff auf die Beschäftigten. Aber das Interesse möglichst viel Arbeit aus Arbeitnehmer\*innen zu ziehen, muss schon von vorher existieren. [Erst dadurch können Smartphones und Notebooks zur Burnoutgefahr werden](http://www.heise.de/newsticker/meldung/Digitalisierung-belastet-Familienleben-und-Gesundheit-3332752.html?wt_mc=rss.ho.beitrag.atom).
 
 ### Wenn das Phänomen zur Ursache der Dinge wird...
 
@@ -29,7 +29,9 @@ Philip Maier hat jedoch noch einen weiteren Sündenbock für die Veränderungen 
 
 >"Die Schnelllebigkeit einer digitalisierten Geschäftswelt bedingt, dass Langzeitarbeitsverhältnisse seltener werden und Mitarbeiter nur im Bedarfsfall und dann auch nur kurzfristig angestellt werden."
 
-Klar, wenn man einfach das Phänomen zum Grund für sich selber erklärt hat man schnell eine Erklärung zur Hand. Eine Erklärung die ungefähr soviel erklärt wie "Die Wechselhaftigkeit der Jahreszeiten bedingt, dass Winter immer seltener direkt auf Sommer folgen und Herbst immer nur ein Viertel des Jahres einnimmt." aber eine Erklärung immerhin. [HAB NICHT GANZ KAPIERT; BITTE MIT ANDEREN WORTEN ERKLÄREN]
+Hier wird eein sehr beliebtes Erklärungsmuster angewendet, dass nur leider komplett falsch ist. Dass Langzeitsarbeitsverhältnisse seltener werden, Mitarbeiter nur wenn sie sich für das Unternehmen gerade rechnen und dann auch nur so lang wie sie das garantiert noch tun, angestellt werden: Das ist doch bereits die SChnellebigkeit, die beklagt wird. Wenn diese Schnelllebigkeit dann aber wiederum als Grund für all diese Phänomene angibt, dann gibt man das Phänomen als Grund für sich selbst aus - man macht also eine Nichtsaussage. 
+
+Um einen Vergleich zu bemühen: Unter Wechselhaftigkeit der Jahrszeiten versteht man das Phänomen dass Jahrszeiten nicht unendlich lang dauern, sondern sich voneinander verschiedene Jahrszeiten regelmäßig ablösen. Das müsste man erklären, da gäb es viel zu tun: Erklären was Planetenbewegungen sind, was die Sonne und die Neigung der Erdachse mit der Temperatur zu tun haben etc. etc. Man könnte es sich aber auch so einfach machen wie der Autor, und einfach feststellen: Die Wechselhaftigkeit der Jahrszeiten bedingt, dass die Jahrszeiten sich abwechseln. Damit hat man zwar nichts erklärt, aber das ist auch genau der Sinn der Veranstaltung. Um die Erklärung, warum denn nun Arbeitsverhältnisse so wechselhaft sind, einen großen Bogen gemacht, um sich dem zuzuwenden worum es dem Artikel alleine geht: Nämlich dass sich deswegen das Arbeitsrecht ändern muss.
 
 ### Das Arbeitsrecht: Keine\*r brauchts und trotzdem da?
 
